@@ -5,6 +5,6 @@
     vi nome.txt //acessa o arquivo
     ins ou ins+shift(Num lock ativado) //modo de escrita
     esc ou ctrl+c //sair do modo de escrita
-    shift + :q! //sair
-    shift + :wq! //sair e salvar
+    shift + :q! //sair do editor
+    shift + :wq! //sair do editor e salvar o arquivo
 
