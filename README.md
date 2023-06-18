@@ -3,6 +3,7 @@
     wsl --install -d ubunto
 ## Editor de texto (VI)
     vi nome.txt //acessa o arquivo
+    esq //sair do modo de leitura e escrita
     shift + :q! //sair
     shift + :wq! //sair e salvar
 
